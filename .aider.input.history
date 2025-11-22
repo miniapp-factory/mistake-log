@@ -1,0 +1,56 @@
+
+# 2025-11-22 09:15:20.300291
++Code the following app
++```
++Title: Mistake Log
++
++Description:
++Create a simple app where users can record their trading or investment mistakes and review them later. The app must work fully offline and must not use the internet or external APIs. All entries are added manually by the user.
++
++Functionality:
++ • Display an input field labeled “Mistake Title” (short description of the mistake).
++ • Display a larger text area labeled “Details” where the user can write what happened, why it happened, and what they learned.
++ • Add a button labeled “Add Entry” that saves the mistake to a visible list.
++ • In a section titled “Your Mistake Log”, display each saved entry with:
++ • Mistake Title
++ • Details
++ • Each entry should have a “Delete” button to remove it individually.
++ • Add a “Clear All” button that removes all logged mistakes.
++ • If any required field is empty, show an error message:
++“Please fill in both fields before adding an entry.”
++
++UI Requirements:
++ • Use only basic UI elements: text fields, text area, labels, buttons, and a list.
++ • Keep the layout clean, structured, and easy to read.
++ • All updates must happen instantly and locally in the app.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-22 09:15:20.301656
++Code the following app
++```
++Title: Mistake Log
++
++Description:
++Create a simple app where users can record their trading or investment mistakes and review them later. The app must work fully offline and must not use the internet or external APIs. All entries are added manually by the user.
++
++Functionality:
++ • Display an input field labeled “Mistake Title” (short description of the mistake).
++ • Display a larger text area labeled “Details” where the user can write what happened, why it happened, and what they learned.
++ • Add a button labeled “Add Entry” that saves the mistake to a visible list.
++ • In a section titled “Your Mistake Log”, display each saved entry with:
++ • Mistake Title
++ • Details
++ • Each entry should have a “Delete” button to remove it individually.
++ • Add a “Clear All” button that removes all logged mistakes.
++ • If any required field is empty, show an error message:
++“Please fill in both fields before adding an entry.”
++
++UI Requirements:
++ • Use only basic UI elements: text fields, text area, labels, buttons, and a list.
++ • Keep the layout clean, structured, and easy to read.
++ • All updates must happen instantly and locally in the app.
++```
++
++Generate an app logo and update the app metadata title and description.
